@@ -2,8 +2,8 @@
 后续会不定期更新 `webpack4` 和 `react16` 的一些教程，先从 `hello world`开始...
 
 # Tutorial
-* react-in-browser: 在浏览器渲染react的入门级教程
-* react-in-node: 在node端渲染react的入门级教程
+* [https://github.com/zhanyuzhang/webpack4-and-react16-tutorial/tree/master/react-in-browser](react-in-browser: 在浏览器渲染react的入门级教程)
+* [react-in-node: 在node端渲染react的入门级教程](https://github.com/zhanyuzhang/webpack4-and-react16-tutorial/tree/master/react-in-node)
 
 # Todo：
 * 使用`webpack-dev-server` 热替换，提高开发效率
